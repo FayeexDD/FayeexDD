@@ -49,7 +49,6 @@
 <h2 align="center"</h2>
 
 <a target="_blank" href="https://discord.com/users/972034784371044372"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-Serups-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/@SlackeC)
 <a target="_blank" href="https://twitter.com/itsFaye_"><img alt="Twitter" src="https://img.shields.io/badge/@itsDFa-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
